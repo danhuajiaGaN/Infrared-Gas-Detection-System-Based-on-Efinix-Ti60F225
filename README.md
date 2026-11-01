@@ -130,8 +130,7 @@ Timing / utilisation of the committed configuration (Ti60F225, C4):
 **三种模式**：KEY3 或 KEY0 循环切换，`led[2]` 亮 = 摄像头增强，全灭 = Sobel 边缘，
 `led[3]` 亮 = 红外风格图。
 
-**说明**：红外图那一路上游是 TN256 热成像模组，目前模组侧的 HS/VS/数据时序还不稳定，
-所以这里显示的是存在 BRAM 里的一张 256×200 静态热像图（全屏放大），不是实时热成像。
+
 
 ---
 
