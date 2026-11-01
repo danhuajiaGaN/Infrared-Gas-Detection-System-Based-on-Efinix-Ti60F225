@@ -1,0 +1,13 @@
+# ---- Efinity build outputs (regenerate with build.ps1) ----
+outflow/
+work_syn/
+work_pnr/
+work_dbg/
+ip/
+ooc/
+.lock
+_efx_run_*.bat
+*.log
+
+# ---- local temp / previews ----
+_preview_*.png
